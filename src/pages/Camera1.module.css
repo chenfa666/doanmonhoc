@@ -1,0 +1,179 @@
+.cameraChild {
+  position: absolute;
+  top: -36px;
+  left: -79px;
+  background-color: var(--color-wheat);
+  width: 603px;
+  height: 266px;
+}
+.cameraInner,
+.cameraItem {
+  position: absolute;
+  top: 44.05px;
+  left: 32.09px;
+  width: 23.54px;
+  height: 33.84px;
+}
+.cameraInner {
+  cursor: pointer;
+}
+.cam4Icon,
+.cam5Icon,
+.cameraChild1,
+.rectangleIcon {
+  position: absolute;
+  top: 131px;
+  left: 22px;
+  width: 184px;
+  height: 184px;
+  object-fit: cover;
+}
+.cam4Icon,
+.cam5Icon,
+.cameraChild1 {
+  left: 223px;
+}
+.cam4Icon,
+.cam5Icon {
+  top: 329px;
+}
+.cam4Icon {
+  left: 22px;
+}
+.cam3Icon {
+  top: 528px;
+  left: 23px;
+  object-fit: cover;
+}
+.cam2Icon,
+.cam3Icon,
+.cam7 {
+  position: absolute;
+  width: 184px;
+  height: 184px;
+}
+.cam7 {
+  top: 731px;
+  left: 21px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+}
+.cam2Icon {
+  top: 528px;
+  left: 223px;
+  object-fit: cover;
+}
+.cam2InfoChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 185px;
+  height: 37px;
+}
+.stair {
+  position: absolute;
+  top: 7px;
+  left: 54px;
+  line-height: 123.5%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 77px;
+  height: 23px;
+}
+.p {
+  margin: 0;
+}
+.txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.div {
+  position: absolute;
+  top: 23px;
+  left: 145px;
+  font-size: var(--font-size-8xs);
+  line-height: 123.5%;
+  color: var(--color-black);
+  text-align: right;
+  display: flex;
+  align-items: center;
+  width: 40px;
+  height: 19px;
+}
+.cam2Info,
+.cam2Info1,
+.cam2Info2 {
+  position: absolute;
+  top: 278px;
+  left: 21px;
+  width: 185px;
+  height: 42px;
+}
+.cam2Info1,
+.cam2Info2 {
+  top: 476px;
+}
+.cam2Info2 {
+  left: 223px;
+}
+.cam2Info3,
+.cam2Info6,
+.camInfo,
+.image6Icon {
+  position: absolute;
+  top: 675px;
+  left: 23px;
+  width: 185px;
+  height: 42px;
+}
+.cam2Info6,
+.camInfo,
+.image6Icon {
+  left: 223px;
+}
+.camInfo,
+.image6Icon {
+  top: 278px;
+  left: 222px;
+}
+.image6Icon {
+  top: 0;
+  left: 150px;
+  width: 129px;
+  height: 86px;
+  object-fit: cover;
+}
+.camera1 {
+  position: absolute;
+  top: 30px;
+  left: 284px;
+  font-size: var(--font-size-17xl);
+  line-height: 123.5%;
+  display: inline-block;
+  text-align: left;
+  width: 234px;
+  height: 80px;
+}
+.cameraChild2 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  border-radius: 0 var(--br-9981xl) var(--br-9981xl) 0;
+  background-color: var(--vert-bleu);
+  width: 1px;
+  height: 932px;
+}
+.camera {
+  position: relative;
+  border-radius: var(--br-5xl);
+  background-color: var(--c2);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--vert-bleu);
+  font-family: var(--font-lato);
+}

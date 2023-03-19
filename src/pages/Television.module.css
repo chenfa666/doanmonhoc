@@ -1,0 +1,257 @@
+.televisionChild {
+  position: absolute;
+  top: 463px;
+  left: 35px;
+  border-radius: var(--br-5xl);
+  width: 372px;
+  height: 447px;
+  cursor: pointer;
+}
+.televisionItem {
+  position: absolute;
+  top: -30px;
+  left: -128px;
+  background-color: var(--color-wheat);
+  width: 603px;
+  height: 259px;
+}
+.television1,
+.televisionInner {
+  position: absolute;
+  top: 44.05px;
+  left: 32.09px;
+  width: 23.54px;
+  height: 33.84px;
+}
+.television1 {
+  top: 40px;
+  left: 258px;
+  font-size: var(--font-size-17xl);
+  line-height: 123.5%;
+  display: inline-block;
+  color: var(--vert-bleu);
+  text-align: left;
+  width: 234px;
+  height: 80px;
+}
+.backButtonIcon {
+  position: absolute;
+  top: 44.05px;
+  left: 32.09px;
+  width: 23.54px;
+  height: 33.84px;
+  cursor: pointer;
+}
+.colorfulPlannerMobileAppPr {
+  position: absolute;
+  top: 99px;
+  left: 36px;
+  width: 355px;
+  height: 278px;
+  object-fit: cover;
+}
+.tvName {
+  position: absolute;
+  top: 377px;
+  left: 84px;
+  font-size: var(--font-size-29xl);
+  line-height: 123.5%;
+  font-weight: 800;
+  color: var(--buse);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 273px;
+  height: 65px;
+}
+.televisionChild1,
+.vectorIcon {
+  position: absolute;
+  top: 396.05px;
+  left: 41.09px;
+  width: 23.54px;
+  height: 33.84px;
+}
+.televisionChild1 {
+  left: 374.36px;
+}
+.turnOnoff,
+.voiceCommand,
+.volume {
+  position: absolute;
+  top: 698px;
+  left: 32px;
+  line-height: 123.5%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 127px;
+  height: 43px;
+}
+.turnOnoff,
+.voiceCommand {
+  top: 735px;
+  left: 161px;
+  width: 119px;
+}
+.turnOnoff {
+  top: 463px;
+  left: 160px;
+  width: 127px;
+}
+.frameIcon,
+.rectangleDiv {
+  position: absolute;
+  top: 506px;
+  left: 166px;
+  border-radius: var(--br-16xl);
+  width: 107px;
+  height: 59.77px;
+}
+.rectangleDiv {
+  top: 0;
+  left: -1px;
+  border-radius: 0 var(--br-9981xl) var(--br-9981xl) 0;
+  background-color: var(--vert-bleu);
+  width: 1px;
+  height: 932px;
+}
+.frameChild,
+.image3Icon {
+  position: relative;
+  width: 62px;
+  height: 62px;
+  flex-shrink: 0;
+}
+.image3Icon {
+  width: 34.37px;
+  height: 35.04px;
+  object-fit: cover;
+  margin-top: -48px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 665px;
+  left: 190px;
+  width: 62px;
+  height: 62px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.div,
+.frameItem {
+  position: relative;
+  flex-shrink: 0;
+}
+.frameItem {
+  border-radius: var(--br-16xl);
+  background-color: var(--color-goldenrod);
+  width: 90.29px;
+  height: 62px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.div {
+  line-height: 123.5%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 23px;
+  height: 37.42px;
+  margin-top: -43px;
+}
+.frameDiv,
+.rectangleParent {
+  position: absolute;
+  width: 62px;
+  height: 90.29px;
+}
+.rectangleParent {
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 28.28520965576172px var(--padding-43xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameDiv {
+  top: 610px;
+  left: 32px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+}
+.frameInner {
+  position: relative;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-tomato-100);
+  width: 90.29px;
+  height: 62px;
+  flex-shrink: 0;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.rectangleGroup {
+  top: 752px;
+  left: 14px;
+  width: 62px;
+  height: 90.29px;
+  flex-direction: column;
+  padding: 0 0 28.28520965576172px var(--padding-43xl);
+  box-sizing: border-box;
+  justify-content: flex-start;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-100);
+}
+.channel,
+.rectangleContainer,
+.rectangleGroup,
+.rectangleParent1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.channel {
+  top: 704px;
+  left: 284px;
+  line-height: 123.5%;
+  font-weight: 800;
+  justify-content: center;
+  width: 127px;
+  height: 43px;
+}
+.rectangleContainer,
+.rectangleParent1 {
+  top: 614px;
+  left: 283px;
+  width: 62px;
+  height: 90.29px;
+  flex-direction: column;
+  padding: 0 0 28.28520965576172px var(--padding-43xl);
+  box-sizing: border-box;
+  justify-content: flex-start;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+}
+.rectangleParent1 {
+  top: 756px;
+  left: 287px;
+  color: var(--color-gray-100);
+}
+.television {
+  position: relative;
+  border-radius: var(--br-5xl);
+  background-color: var(--c2);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-lato);
+}

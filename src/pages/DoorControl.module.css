@@ -1,0 +1,132 @@
+.doorControlChild {
+  position: absolute;
+  top: -30px;
+  left: -128px;
+  background-color: var(--color-wheat);
+  width: 603px;
+  height: 259px;
+}
+.doorIcon104221 {
+  position: absolute;
+  top: 43px;
+  left: 281px;
+  border-radius: 32px;
+  width: 118px;
+  height: 113px;
+  object-fit: cover;
+}
+.backButtonIcon {
+  position: absolute;
+  top: 44.05px;
+  left: 32.09px;
+  width: 23.54px;
+  height: 33.84px;
+}
+.doorControlInner,
+.doorControlItem,
+.rectangleDiv {
+  position: absolute;
+  top: 247px;
+  left: 30px;
+  border-radius: var(--br-5xl);
+  width: 369px;
+  height: 104px;
+}
+.doorControlInner,
+.rectangleDiv {
+  top: 388px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-goldenrod);
+  height: 492px;
+}
+.rectangleDiv {
+  top: 0;
+  left: -1px;
+  border-radius: 0 var(--br-9981xl) var(--br-9981xl) 0;
+  background-color: var(--vert-bleu);
+  width: 1px;
+  height: 932px;
+}
+.doorControlChild1 {
+  position: absolute;
+  top: 452px;
+  left: 53px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-wheat);
+  width: 323px;
+  height: 408px;
+}
+.lockunlock,
+.statusLog {
+  position: absolute;
+  top: 256px;
+  left: 64px;
+  line-height: 123.5%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 306px;
+  height: 79px;
+}
+.statusLog {
+  top: 406px;
+  left: 78px;
+  color: var(--buse);
+  width: 273px;
+  height: 36px;
+}
+.p {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.p7 {
+  margin: 0;
+}
+.div {
+  position: absolute;
+  top: 466px;
+  left: 84px;
+  font-size: var(--font-size-xl);
+  line-height: 123.5%;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 163px;
+  height: 383px;
+}
+.unlock,
+.unlock1 {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.unlock {
+  color: #00ce8e;
+}
+.unlock1 {
+  color: var(--color-mediumseagreen-100);
+}
+.unlockLockUnlockContainer {
+  position: absolute;
+  top: 466px;
+  left: 271px;
+  font-size: var(--font-size-xl);
+  line-height: 123.5%;
+  text-align: left;
+  display: inline-block;
+  width: 96px;
+  height: 383px;
+  color: var(--color-orangered);
+}
+.doorControl {
+  position: relative;
+  border-radius: var(--br-5xl);
+  background-color: var(--c2);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}

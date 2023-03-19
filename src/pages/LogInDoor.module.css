@@ -1,0 +1,165 @@
+.enterDoorPassword {
+  position: absolute;
+  top: 289px;
+  left: 41px;
+  font-size: var(--font-size-13xl);
+  line-height: 123.5%;
+  display: flex;
+  color: var(--vert-bleu);
+  align-items: center;
+  justify-content: center;
+  width: 349px;
+  height: 66px;
+}
+.backButtonIcon {
+  position: absolute;
+  top: 44.05px;
+  left: 32.09px;
+  width: 23.54px;
+  height: 33.84px;
+}
+.logInDoorChild,
+.logInDoorItem {
+  position: absolute;
+  top: 372px;
+  left: 89px;
+  width: 251px;
+  height: 57px;
+}
+.logInDoorItem {
+  top: 377px;
+  left: 70px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-goldenrod);
+  border: 6px solid var(--color-tomato-200);
+  box-sizing: border-box;
+  width: 290px;
+  height: 46px;
+  cursor: pointer;
+}
+.b {
+  position: absolute;
+  top: 389px;
+  left: 90px;
+  font-size: var(--font-size-13xl);
+  line-height: 123.5%;
+  display: flex;
+  color: #635a5a;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  height: 34px;
+}
+.div,
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71px;
+  height: 70px;
+}
+.div {
+  top: 9px;
+  left: 10px;
+  line-height: 123.5%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+}
+.ellipseContainer,
+.ellipseGroup,
+.ellipseParent,
+.groupDiv {
+  position: absolute;
+  top: 477px;
+  left: 75px;
+  width: 71px;
+  height: 70px;
+}
+.ellipseContainer,
+.ellipseGroup,
+.groupDiv {
+  left: 179px;
+}
+.ellipseContainer,
+.groupDiv {
+  left: 283px;
+}
+.groupDiv {
+  top: 578px;
+}
+.ellipseParent1,
+.ellipseParent2,
+.ellipseParent3,
+.ellipseParent4 {
+  position: absolute;
+  top: 578px;
+  left: 179px;
+  width: 71px;
+  height: 70px;
+}
+.ellipseParent2,
+.ellipseParent3,
+.ellipseParent4 {
+  left: 75px;
+}
+.ellipseParent3,
+.ellipseParent4 {
+  top: 682px;
+}
+.ellipseParent4 {
+  left: 179px;
+}
+.ellipseParent5,
+.ellipseParent6,
+.ellipseParent7,
+.ellipseParent8 {
+  position: absolute;
+  top: 682px;
+  left: 283px;
+  width: 71px;
+  height: 70px;
+}
+.ellipseParent6,
+.ellipseParent7,
+.ellipseParent8 {
+  top: 786px;
+}
+.ellipseParent7,
+.ellipseParent8 {
+  left: 179px;
+}
+.ellipseParent8 {
+  left: 75px;
+}
+.logInDoorInner,
+.logoIcon {
+  position: absolute;
+  top: 109px;
+  left: 133px;
+  width: 164px;
+  height: 159px;
+}
+.logInDoorInner {
+  top: 0;
+  left: -1px;
+  border-radius: 0 var(--br-9981xl) var(--br-9981xl) 0;
+  background-color: var(--vert-bleu);
+  width: 1px;
+  height: 932px;
+}
+.logInDoor {
+  position: relative;
+  border-radius: var(--br-5xl);
+  background-color: var(--c2);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-tomato-200);
+  font-family: var(--font-lato);
+}
